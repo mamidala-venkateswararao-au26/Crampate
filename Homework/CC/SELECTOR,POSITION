@@ -1,0 +1,141 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>v</title>
+    <link rel="stylesheet" href="CSS/pra.css">
+</head>
+<body>
+    <div class="fotter">
+        <button class="project"><a class="nav1" href="#">ProjectName</a></button>
+        <button class="home-tag"><a class="nav2" href="#">Home</a></button>
+        <button class="about-tag"><a class="nav3" href="#">About</a></button>
+        <button class="contact-tag"><a class="nav4" href="#">Contact</a></button>
+    </div>
+    <p>
+        We need to fix agriculture in India – our current system is exploitative for both our farmers and the environment. Today, nearly all public spending in agriculture goes to support input-intensive practices that have only deepened the crisis. As we are in the process of rewriting agricultural policies, sustainability needs to be key in our thinking about a safety net for farmers.
+
+Farmer distress, suicides, and mass protests are driven by high production costs, unremunerative prices, depleting natural resources and increasingly unpredictable weather. Yet, unsustainable practices have become the norm: over half the aquifers in India have depleting water levels while 90% of groundwater is used for irrigation, 30% of land area is degraded and topsoil that takes centuries <br> to build is being lost in a matter of years. At the same time, India is ranked as the most vulnerable country in the world to extreme weather events induced by climate change.
+
+Evidence shows that moving towards sustainable practices will conserve natural resources, reduce greenhouse gas emissions, potentially reduce cost of production and climate-related risks for farmers. In line with these ideas, the prime minister himself has urged farmers to reduce the use of chemical fertilisers and pesticides, and also remarked on the use of ‘zero budget natural farming’ for <br> soil conservation during an address to the United Nations Convention to Combat Desertification conference in 2019.
+
+In that year’s budget speech, finance minister Nirmala Sitharaman spoke about the need for ‘zero budget farming’ to double farmers’ income but failed to provide any meaningful budgetary allocation to its promotion. In 2019-20, the central government spent a meagre Rs 283 crore through the Paramparagat Krishi Vikas Yojana – its primary programme <br> for the promotion of sustainable agriculture. The allocation for year 2021-22, at Rs 450 crore, is not much improved. However, the NITI Aayog has recently held a consultation on the promotion of zero budget natural farming, indicating some ongoing conversation on the matter.
+
+Natural farming is a type of organic farming. Its basic principles are based on the elimination of chemical inputs and use of locally available resources to reduce farmers’ dependence of market-bought inputs that can put them in a cycle of debt. The impact of natural farming practices is yet to be fully understood, but preliminary evidence shows increasing yield in certain crops and income gains through lower cost of production.
+    </p>
+    <p>
+        We need to fix agriculture in India – our current system is exploitative for both our farmers and the environment. Today, nearly all public spending in agriculture goes to support input-intensive practices that have only deepened the crisis. As we are in the process of rewriting agricultural policies, sustainability needs to be key in our thinking about a safety net for farmers.
+
+Farmer distress, suicides, and mass protests are driven by high production costs, unremunerative prices, depleting natural resources and increasingly unpredictable weather. Yet, unsustainable practices have become the norm: over half the aquifers in India have depleting water levels while 90% of groundwater is used for irrigation, 30% of land area is degraded and topsoil that takes centuries to build is being lost in a matter of years. At the same time, India is ranked as the most vulnerable country in the world to extreme weather events induced by climate change.
+
+Evidence shows that moving towards sustainable practices will conserve natural resources, reduce greenhouse gas emissions, potentially reduce cost of production and climate-related risks for farmers. In line with these ideas, the prime minister himself has urged farmers to reduce the use of chemical fertilisers and pesticides, and also remarked on the use of ‘zero budget natural farming’ for soil conservation during an address to the United Nations Convention to Combat Desertification conference in 2019.
+
+In that year’s budget speech, finance minister Nirmala Sitharaman spoke about the need for ‘zero budget farming’ to double farmers’ income but failed to provide any meaningful budgetary allocation to its promotion. In 2019-20, the central government spent a meagre Rs 283 crore through the Paramparagat Krishi Vikas Yojana – its primary programme for the promotion of sustainable agriculture. The allocation for year 2021-22, at Rs 450 crore, is not much improved. However, the NITI Aayog has recently held a consultation on the promotion of zero budget natural farming, indicating some ongoing conversation on the matter.
+
+Natural farming is a type of organic farming. Its basic principles are based on the elimination of chemical inputs and use of locally available resources to reduce farmers’ dependence of market-bought inputs that can put them in a cycle of debt. The impact of natural farming practices is yet to be fully understood, but preliminary evidence shows increasing yield in certain crops and income gains through lower cost of production.
+    </p>
+    <p>
+        We need to fix agriculture in India – our current system is exploitative for both our farmers and the environment. Today, nearly all public spending in agriculture goes to support input-intensive practices that have only deepened the crisis. As we are in the process of rewriting agricultural policies, sustainability needs to be key in our thinking about a safety net for farmers.
+
+Farmer distress, suicides, and mass protests are driven by high production costs, unremunerative prices, depleting natural resources and increasingly unpredictable weather. Yet, unsustainable practices have become the norm: over half the aquifers in India have depleting water levels while 90% of groundwater is used for irrigation, 30% of land area is degraded and topsoil that takes centuries to build is being lost in a matter of years. At the same time, India is ranked as the most vulnerable country in the world to extreme weather events induced by climate change.
+
+Evidence shows that moving towards sustainable practices will conserve natural resources, reduce greenhouse gas emissions, potentially reduce cost of production and climate-related risks for farmers. In line with these ideas, the prime minister himself has urged farmers to reduce the use of chemical fertilisers and pesticides, and also remarked on the use of ‘zero budget natural farming’ for soil conservation during an address to the United Nations Convention to Combat Desertification conference in 2019.
+
+In that year’s budget speech, finance minister Nirmala Sitharaman spoke about the need for ‘zero budget farming’ to double farmers’ income but failed to provide any meaningful budgetary allocation to its promotion. In 2019-20, the central government spent a meagre Rs 283 crore through the Paramparagat Krishi Vikas Yojana – its primary programme for the promotion of sustainable agriculture. The allocation for year 2021-22, at Rs 450 crore, is not much improved. However, the NITI Aayog has recently held a consultation on the promotion of zero budget natural farming, indicating some ongoing conversation on the matter.
+
+Natural farming is a type of organic farming. Its basic principles are based on the elimination of chemical inputs and use of locally available resources to reduce farmers’ dependence of market-bought inputs that can put them in a cycle of debt. The impact of natural farming practices is yet to be fully understood, but preliminary evidence shows increasing yield in certain crops and income gains through lower cost of production.
+    </p>
+    <div class="fotter1">
+        <p>Hi iam fixed </p>
+
+    </div>
+</body>
+</html>
+
+####################################################################CSS#######################################################################################################
+
+/*div >p{
+    background-color: blue;
+}
+
+div + p{
+    background-color: chartreuse;
+}
+div ~ p{
+    background-color: darkcyan;
+}*/
+
+/*.div1,p
+    display: inline-block;
+}
+  */
+
+/*p{
+    position: fixed;
+    top: 20px;
+    right: 10px;
+}*/
+
+a{
+    color: blue;
+}
+a:link{
+    color: chartreuse;
+}
+
+a:link:hover{
+    color: cyan;
+}
+
+.fotter{
+    position: fixed;
+    word-spacing:-30px;
+   left: 0;
+   top: 0;
+   width: 100%;
+   background-color:black;
+   color: white;
+   text-align: left;
+
+}
+   
+.fotter1{
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background-color: skyblue;
+    color: black;
+    text-align: center;
+}
+
+
+a{
+    color: black;
+    
+}
+
+a:hover{
+    background-color: red;
+   
+}
+.nav2{
+    width: 100%;
+}
+.project{
+    background-color: blue;
+    
+}
+.home-tag{
+    background-color: blue;
+
+}
+.about-tag{
+    background-color: blue;
+}
+.contact-tag{
+    background-color: blue;
+}
