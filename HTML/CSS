@@ -1,0 +1,45 @@
+CSS BOX SHOWDS,TRANSITION,TRANSFORAMTION
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSS SHOWED</title>
+    <link rel="stylesheet" href="/CSS/class.css">
+</head>
+<body>
+    <h1>CSS BOX SHADOWS, TRANS</h1>
+    <div class="sqr"> hif </div>
+    
+</body>
+</html>
+/* CSS BOX SHOWDS,TRANSITION,TRANSFORMATION
+.sqr{
+    height: 50px;
+    width: 50px;
+    background-color:red;
+    transition-property: width;
+    transition-property: 2s;
+    box-shadow:10px 20px 10px 0px yellow inset ;*/
+    /*transition: width 5s;*/
+    /*transition-timing-function: ease-in;
+    transition-delay: 5s;
+    transform: rotate(180deg);
+    transform: scale();    
+}*/
+
+/*.sqr:hover{
+    height: 100px;
+    width: 100px;
+}*/
+**********************************************
+
+
+
+
+
+
+
+
+
