@@ -10,7 +10,8 @@ Sign in
 Sign up
 attainu
 /
-core-cse-project-Manjunath-Gowdar-au26
+core-cse-project-mamidala-venkateswararao-au26
+
 Public
 Code
 Issues
@@ -19,9 +20,12 @@ Actions
 Projects
 Security
 Insights
-core-cse-project-Manjunath-Gowdar-au26/snake_and_ladder.py /
-@Manjunath-Gowdar-au26
-Manjunath-Gowdar-au26 Final update
+core-cse-project-mamidala-venkateswararao-au26
+/snake_and_ladder.py /
+@mamidala-venkateswararao-au26
+
+mamidala-venkateswararao-au26
+ Final update
 Latest commit 77cff18 yesterday
  History
  1 contributor
@@ -38,7 +42,7 @@ class Game:
     # welcome message 
     message = """
         Welcome to Snake and Ladder Game.
-        Developed by: Manjunath AG
+        Developed by: M.venkateswara Rao
         Select Snake and Ladder data-type:
         --> Enter 1 to select default values for snake and ladder.
         --> Enter 2 to give values manually.
